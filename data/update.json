@@ -1,6 +1,10 @@
 {
-    "version": "1.2.1-beta",
+    "version": "1.2.0-beta",
     "update_msg": "§7§m§l--------------------§6§l[§c§lNEF§6§l]§7§m§l-------------------\n\n§7A new version, §c${currentVersion}§7 -> §d1.2.0-beta§7, is now available!\n\n§7§m§l--------------------§6§l[§c§lNEF§6§l]§7§m§l-------------------",
     "update_link": "(no link available yet)",
-    "discord_link": "https://discord.com/invite/DKrMTQugev"
+    "discord_link": "https://discord.com/invite/DKrMTQugev",
+
+
+    "has_warning": true,
+    "warning_msg": "§cThe feature XXXXX does not work, disable it to prevent crashes"
 }
