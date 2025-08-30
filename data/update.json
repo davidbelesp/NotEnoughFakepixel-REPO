@@ -5,6 +5,6 @@
     "discord_link": "https://discord.com/invite/DKrMTQugev",
 
 
-    "has_warning": true,
+    "has_warning": false,
     "warning_msg": "§cThe feature XXXXX does not work, disable it to prevent crashes"
 }
