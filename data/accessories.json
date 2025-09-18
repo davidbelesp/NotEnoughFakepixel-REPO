@@ -2,7 +2,19 @@
     "accessories": [
         {
             "rarity": "COMMON",
-            "name": "Test Accessory 1"
+            "name": "Pocket Expresso Machine"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "Handy Blood Chalice"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "Skeleton Talisman"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "Village Affinity Talisman"
         }
     ]
 }
