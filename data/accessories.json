@@ -17,8 +17,365 @@
             "name": "Village Affinity Talisman"
         },
         {
+            "rarity": "COMMON",
+            "name": "Night Vision Charm"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "Farming Talisman"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "Talisman Of Coins"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "Mine Affinity Talisman"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "Fire Talisman"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "Scavenger Talisman"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "Netherrack-Looking Sunshade"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "Archaeologist's Compass"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "King Talisman"
+        },
+        {
+            "rarity": "COMMON",
+            "name": "Great Spook Talisman"
+        },
+        {
+            "rarity": "UNCOMMON",
+            "name": "Healing ring"
+        },
+        {
+            "rarity": "UNCOMMON",
+            "name": "Piggy Bank"
+        },
+        {
+            "rarity": "UNCOMMON",
+            "name": "Gravity Talisman"
+        },
+        {
+            "rarity": "UNCOMMON",
+            "name": "Lava Talisman"
+        },
+        {
+            "rarity": "UNCOMMON",
+            "name": "Farmer Orb"
+        },
+        {
+            "rarity": "UNCOMMON",
+            "name": "Magnetic Talisman"
+        },
+        {
+            "rarity": "UNCOMMON",
+            "name": "Wolf Paw"
+        },
+        {
+            "rarity": "UNCOMMON",
+            "name": "Wood Affinity Talisman"
+        },
+        {
+            "rarity": "UNCOMMON",
+            "name": "Emerald Ring"
+        },
+        {
+            "rarity": "UNCOMMON",
+            "name": "Jungle Amulet"
+        },
+        {
+            "rarity": "UNCOMMON",
+            "name": "Eternal Flame Ring"
+        },
+        {
             "rarity": "RARE",
-            "name": "Rabbit's Foot"
+            "name": "Hunter Ring"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Day Crystal"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Night Crystal"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Survivor Cube"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Potion Affinity Artifact"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Speed Artifact"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Wolf Ring"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Zombie Artifact"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Devour Ring"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Anita's Artifact"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Bits Talisman"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Bat Person Artifact"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Glacial Artifact"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Fish Affinity Talisman"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Sea Creature Artifact"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Feather Artifact"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Blaze Talisman"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Eternal Hoof"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Fermento Artifact"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Vaccine Artifact"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Abicase"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Bucket of Dye"
+        },
+        {
+            "rarity": "RARE",
+            "name": "Pig's Foot"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Artifact of Power"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Catacombs Expert Ring"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Red Claw Artifact"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Draconic Artifact"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Nether Artifact"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Tarantula Talisman"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Seal of the Family"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Haste Artifact"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Experience Artifact"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Spider Artifact"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Burststopper Artifact"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Odger's Diamond Tooth"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Soulflow Supercell"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Spiked Atrocity"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Intimidation Relic"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Hocus-Pocus Cypher"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Cheetah Talisman"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Emperor Artifact"
+        },
+        {
+            "rarity": "EPIC",
+            "name": "Glossy Mineral Talisman"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Hegemony Artifact"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Shiny Charm"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Shen's Regalia"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Artifact of Control"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Jacobus Register"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Prestige Chocolate Realm"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Wither Relic"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Scarf Grimoire"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Titanium Relic"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Reaper Orb"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Auto Recombobulator"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Razor-Sharp Shark Tooth Necklace"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Beastmaster Crest"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Gold Gift Talisman"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Treasure Artifact"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Campfire God Badge"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Bat Artifact"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Candy Relic"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Ender Relic"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Golden Jerry Artifact"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Master Skull Tier 7"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Pulse Ring"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Personal Compactor 7000"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Personal Deletor 7000"
+        },
+        {
+            "rarity": "LEGENDARY",
+            "name": "Bugged Piece of Code"
+        },
+        {
+            "rarity": "MYTHIC",
+            "name": "Ancient Amulet"
+        },
+        {
+            "rarity": "SPECIAL",
+            "name": "Danielo's 18th Birthday Cake"
         }
+
     ]
 }
