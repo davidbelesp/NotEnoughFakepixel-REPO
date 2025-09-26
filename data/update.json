@@ -1,7 +1,7 @@
 {
-    "version": "1.2.1",
-    "update_msg": "§7§m§l--------------------§6§l[§c§lNEF§6§l]§7§m§l-------------------\n\n§7A new version, §c${currentVersion}§7 -> §d1.2.1§7, is now available!\n\n§7§m§l--------------------§6§l[§c§lNEF§6§l]§7§m§l-------------------",
-    "update_link": "https://github.com/davidbelesp/NotEnoughFakepixel/releases/download/1.2.1/notenoughfakepixel-1.2.1.jar",
+    "version": "1.2.3",
+    "update_msg": "§7§m§l--------------------§6§l[§c§lNEF§6§l]§7§m§l-------------------\n\n§7A new version, §c${currentVersion}§7 -> §d1.2.3§7, is now available!\n\n§7§m§l--------------------§6§l[§c§lNEF§6§l]§7§m§l-------------------",
+    "update_link": "https://github.com/davidbelesp/NotEnoughFakepixel/releases/download/1.2.3/notenoughfakepixel-1.2.3.jar",
     "discord_link": "https://discord.com/invite/DKrMTQugev",
 
 
