@@ -1,10 +1,10 @@
 {
-    "version": "1.2.3",
-    "update_msg": "§7§m§l--------------------§6§l[§c§lNEF§6§l]§7§m§l-------------------\n\n§7A new version, §c${currentVersion}§7 -> §d1.2.3§7, is now available!\n\n§7§m§l--------------------§6§l[§c§lNEF§6§l]§7§m§l-------------------",
-    "update_link": "https://github.com/davidbelesp/NotEnoughFakepixel/releases/download/1.2.3/notenoughfakepixel-1.2.3.jar",
+    "version": "1.2.4",
+    "update_msg": "§7§m§l--------------------§6§l[§c§lNEF§6§l]§7§m§l-------------------\n\n§7A new version, §c${currentVersion}§7 -> §d1.2.4§7, is now available!\n\n§7§m§l--------------------§6§l[§c§lNEF§6§l]§7§m§l-------------------",
+    "update_link": "https://github.com/davidbelesp/NotEnoughFakepixel/releases/download/1.2.4/notenoughfakepixel-1.2.4.jar",
     "discord_link": "https://discord.com/invite/DKrMTQugev",
 
 
-    "has_warning": true,
-    "warning_msg": "§cIs mod not working? Turn on §e\"Enable out of Fakepixel\"§c option in Debug Tab!"
+    "has_warning": false,
+    "warning_msg": ""
 }
